@@ -1,0 +1,17 @@
+{
+    "name": "poniyur/test",
+    "description": "my test lib for education",
+    "type": "library",
+    "require": {
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "poniyur",
+            "email": "94poniyur@mail.ru"
+        }
+    ],
+    "autoload": {
+        "classmap": ["src"]
+    }
+}
