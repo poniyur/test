@@ -13,7 +13,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "poniyur\\utils\\": "src/"
+            "poniyur\\": "src/"
         }
     }
 }

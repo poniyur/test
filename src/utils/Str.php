@@ -2,7 +2,7 @@
 
 namespace string;
 
-class Utils {
+class Str {
 
 	public static function validateBrakets($str) {
 		$str = preg_replace('/\s*/', '', $str);
