@@ -1,5 +1,7 @@
 <?php
 
+namespace poniyur\utils;
+
 class Str {
 
 	public static function validateBrakets($str) {
