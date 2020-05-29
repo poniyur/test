@@ -1,7 +1,5 @@
 <?php
 
-namespace string;
-
 class Str {
 
 	public static function validateBrakets($str) {
